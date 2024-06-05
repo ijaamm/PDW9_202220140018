@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+h1, h2, h3 {
+    color: hsl(251, 58%, 19%);
+}
+
+footer {
+    background-color: hsl(251, 58%, 19%);
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
